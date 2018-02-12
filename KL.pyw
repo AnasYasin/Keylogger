@@ -14,4 +14,7 @@ hooks_manager.HookKeyboard()
 pythoncom.PumpMessages()
 
 #syvfgsvfsyf
+#hell
+#jdgjfhfd
+#dffdddd
 
