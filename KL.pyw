@@ -12,3 +12,9 @@ hooks_manager= pyHook.HookManager()
 hooks_manager.KeyDown= onKeyboardEvent
 hooks_manager.HookKeyboard()
 pythoncom.PumpMessages()
+
+#syvfgsvfsyf
+#hell
+#jdgjfhfd
+#dffdddd
+
